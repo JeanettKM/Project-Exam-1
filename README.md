@@ -1,67 +1,48 @@
-## Project Exam 1
+First year Exam.
 
-## Goal
+![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
-To put into practice the skills learned over your first year of studies.
+## Description
 
-## Brief
-You have been tasked with creating a blog site. You can choose the design and topics covered on the blog, but it should have at least the following pages:
--	Home page
--	About page
--	List of blog posts
--	Blog post specific pages
--	Contact page.
+This is the webpage i created for our first exam before the summer holiday. We were tasked with creating a blog with a theme of our own choosing. There were several points to be achieved during this project. Firstly we had to create a headless CMS with the blogs to use on our webpage so we can collect the blogs with a API endpoint. The blog had to have a carousel made with html, css and js where you can scroll throught the first blog inserts. It also had to have a collection page and a specific page. All the blogs and its info were to be collected and fetched with the API endpoint. 
 
-### Home Page
-The home page should have a ‘Latest Posts’ section which uses a carousel (slider) for users to click to view more posts. For example, by default the user can see four posts, then they can click an arrow on the right to view the next four posts, and click it again to view the next four posts. The user can also click back to view results they had previously seen. This must be implemented for desktop at least, but if you want a simpler layout for mobile, you can change it from being in a carousel.
+## Built With
 
-### Blog Page
+- HTML5
+- CSS3
+- JavaScript
+- Wordpress Rest Api
+- <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg>"> Figma </a>
 
-The blog posts page should show the first 10 blogs, and the user should click to view more results which then show underneath the first 10 blogs.
+## Getting Started
 
-### Blog Specific Page
+### Installing
 
-The content of the blog specific page should be dynamically built using a query string parameter based on whatever link the user clicked. The title of the blog specific page should change based on the blog that has been clicked on e.g. “My Blog | An Article I Wrote”.
+This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
-If images on the blog post page are clicked, a modal should appear giving the user a bigger view of that image. Clicking outside the image should hide the modal.
+1. Clone the repo:
 
-### Contact page
+```bash
+git clone https://github.com/JeanettKM/SummerExam.git
+```
 
-Create a contact us page, there should be 4 textboxes on this page.
--	Name (Should be more than 5 characters long)
--	Email address (Must be a valid email address)
--	Subject (Should be more than 15 characters long)
--	Message content (Should be more than 25 characters long)
+2. Open the Zip File/Folder with your preferred Code editor.
 
-Please use JavaScript for validation, show error messages if the values in the textboxes do not meet the requirements.
 
-### WordPress
+## Contact
 
-The content for your website will be stored on a WordPress installation used as a Headless CMS. It’s important to note that we are only using WordPress to provide an API and add content for the blog. You should not submit a link to a WordPress site, but build your website using HTML, CSS and JavaScript and making a call to the WordPress REST API to fetch the data. 
+Jeanett Melsom - https://www.linkedin.com/in/jeanett-melsom-927ab4123/
 
-The project has two aspects:
--	API from your WordPress installation
--	Your website built with HTML, CSS and JavaScript
 
-You will need to add at least 12 blogs for your website. You can use lorem ipsum for paragraphs if you need, but headings, images etc. should all make sense.
+## Acknowledgments
 
-Note that this is an exam, and therefore tutor support will be limited as per the study plan.
+The icons were collected by Google Material Icons:
+Author:
+Material Design Authors
+License:
+Apache 2.0
 
-## Level 1 Process
+All images in this project was taken from different free pitures websites.
+I can provide the references if needed.
 
-1.	Decide on the theme for the blog you’re going to make
-2.	Create a prototype of the website
-3.	Install WordPress on your web host and add the blogs on the admin panel. 
-4.	Use the GitHub repo created by GitHub Classroom for your files and deploy to Netlify
-5.	Build your website using HTML, CSS and JavaScript making a call to the WordPress REST API to fetch your data.
-6.	Install Hotjar on your website.
-7.	Ask users to test your website, and adjust based on their feedback and any insights from Hotjar.
-8.	Write a report documenting your project (template provided in this repository).
-9.	Submit your report as a PDF and a link to both your Netlify deployment and your GitHub repo.
- 
-## Level 2 Process (optional)
-
-1.	You can try adding a sort, filter, or search to the blog posts page allowing users to find the blog post more easily that they’re looking for. 
-2.	Post the data from the contact form to WordPress so you have the details saved.
-3.	Allow users to submit comments on a blog post, and post this data to WordPress
-
+Prototype created in figma: https://www.figma.com/file/GgIzE0LPQYX65MyAdZhkcD/Eksamen-Jeanett-Melsom-Prototype?type=design&node-id=1%3A124&t=nwK7VHZlto9F2yyH-1
