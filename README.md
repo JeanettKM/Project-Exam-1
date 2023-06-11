@@ -46,3 +46,5 @@ All images in this project was taken from different free pitures websites.
 I can provide the references if needed.
 
 Prototype created in figma: https://www.figma.com/file/GgIzE0LPQYX65MyAdZhkcD/Eksamen-Jeanett-Melsom-Prototype?type=design&node-id=1%3A124&t=nwK7VHZlto9F2yyH-1
+
+Visit the live page here: https://jeanettkm-exam.netlify.app/
