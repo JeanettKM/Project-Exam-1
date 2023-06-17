@@ -36,6 +36,10 @@ git clone https://github.com/JeanettKM/SummerExam.git
 
 2. Open the Zip File/Folder with your preferred Code editor.
 
+## Contributing
+
+If you want to contribute to the project then you are more than welcome to do so! 
+-Make a pull request or contact me through the provided contact details in my profile. 
 
 ## Contact
 
