@@ -38,8 +38,7 @@ git clone https://github.com/JeanettKM/SummerExam.git
 
 ## Contributing
 
-If you want to contribute to the project then you are more than welcome to do so! 
--Make a pull request or contact me through the provided contact details in my profile. 
+If you want to contribute to the project then you are more than welcome to do so, make a pull request or contact me through the provided contact details in my profile. 
 
 ## Contact
 
