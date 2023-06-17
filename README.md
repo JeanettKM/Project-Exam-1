@@ -31,6 +31,9 @@ Visit the live page here: https://jeanettkm-exam.netlify.app/
 ```bash
 git clone https://github.com/JeanettKM/SummerExam.git
 ```
+### dependencies:
+The site depends on a Wordpress API instance.
+
 ### Running
 
 2. Open the Zip File/Folder with your preferred Code editor.
